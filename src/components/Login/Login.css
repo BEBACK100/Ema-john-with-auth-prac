@@ -1,0 +1,43 @@
+.form-container{
+   width: 450px;
+   height: 400px;
+   margin-top: 100px;
+   margin-left: 400px;
+   padding: 20px;
+   background-image: url("../../assets/my-pc.jpg");
+   background-repeat: no-repeat;
+   background-size: 3ch;
+   background-position: right top;
+   margin-right: 200px;
+   background-attachment: fixed;
+
+   
+}
+.form-control{
+    font-size: 30px;
+    text-align: center;
+    
+}
+.form-control input{
+    padding: 10px;
+    display: block;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  width: 350px;
+  margin-left: 30px;
+  margin-top: 20px;
+   
+}
+.google-btn{
+    margin-left: 100px;
+    margin-top: 20px;
+    background: rgb(243, 223, 38);
+  
+    /* border-radius: 20px; */
+    align-items: center;
+    text-align: center;
+
+}
+.google-btn :hover{
+    background: rgb(16, 23, 2);
+}
